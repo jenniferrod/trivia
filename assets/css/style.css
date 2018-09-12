@@ -1,0 +1,50 @@
+h1 {
+    font-family: 'Josefin Slab', serif;
+    text-transform: uppercase;
+    padding: 0px 0px;
+}
+
+#countdown,
+#counter-number {
+    font-family: 'Josefin Slab', serif;
+    text-transform: uppercase;
+    /* font-size: 1em; */
+    font-size: 1.25em;
+}
+
+.resultMsg,
+button,
+h2,
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    opacity: 1;
+}
+
+#wrapper {
+    text-align: center;
+    margin-top: 15%;
+}
+
+#logo {
+    align-items: center;
+    width: 90%;
+    margin-bottom: 0px;
+}
+
+#sub-wrapper {
+    display: none;
+    padding: 15px;
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    font-weight: bolder;
+    color: #000000;
+}
+body {
+    color: white;
+    background-image: url("https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-111981-download_6--2x1--940.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    background-color: black;
+}
